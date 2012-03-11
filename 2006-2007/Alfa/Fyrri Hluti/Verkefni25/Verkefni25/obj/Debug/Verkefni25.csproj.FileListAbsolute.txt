@@ -1,0 +1,6 @@
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2006-2007\Alfa\Fyrri Hluti\Verkefni25\Verkefni25\bin\Debug\Verkefni25.exe.config
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2006-2007\Alfa\Fyrri Hluti\Verkefni25\Verkefni25\bin\Debug\Verkefni25.exe
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2006-2007\Alfa\Fyrri Hluti\Verkefni25\Verkefni25\bin\Debug\Verkefni25.pdb
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2006-2007\Alfa\Fyrri Hluti\Verkefni25\Verkefni25\obj\Debug\Verkefni25.csprojResolveAssemblyReference.cache
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2006-2007\Alfa\Fyrri Hluti\Verkefni25\Verkefni25\obj\Debug\Verkefni25.exe
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2006-2007\Alfa\Fyrri Hluti\Verkefni25\Verkefni25\obj\Debug\Verkefni25.pdb

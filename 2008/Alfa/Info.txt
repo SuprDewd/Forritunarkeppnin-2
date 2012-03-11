@@ -1,0 +1,4 @@
+
+	Bjarki Ágúst Guðmundsson
+	Gert á æfingu 5. janúar 2012
+	Öll dæmi kláruð nema dæmi 18 (vegna C++/íslensku örðuleika) og SQL-, Þráða- og Gluggaforrit eftir dæmi 21.

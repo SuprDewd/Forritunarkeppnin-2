@@ -1,0 +1,12 @@
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\Alfa2011.exe.config
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\Alfa2011.exe
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\Alfa2011.pdb
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\SharpBag.dll
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\System.Reactive.dll
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\MySql.Data.dll
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\SharpBag.pdb
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\SharpBag.xml
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\bin\Debug\System.Reactive.xml
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\obj\Debug\Alfa2011.csprojResolveAssemblyReference.cache
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\obj\Debug\Alfa2011.exe
+C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa3\Alfa2011\Alfa2011\obj\Debug\Alfa2011.pdb

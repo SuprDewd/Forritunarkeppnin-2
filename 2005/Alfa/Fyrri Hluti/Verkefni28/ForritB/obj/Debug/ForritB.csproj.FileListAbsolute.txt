@@ -1,0 +1,6 @@
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2005\Alfa\Fyrri Hluti\Verkefni28\ForritB\bin\Debug\ForritB.exe.config
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2005\Alfa\Fyrri Hluti\Verkefni28\ForritB\bin\Debug\ForritB.exe
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2005\Alfa\Fyrri Hluti\Verkefni28\ForritB\bin\Debug\ForritB.pdb
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2005\Alfa\Fyrri Hluti\Verkefni28\ForritB\obj\Debug\ForritB.csprojResolveAssemblyReference.cache
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2005\Alfa\Fyrri Hluti\Verkefni28\ForritB\obj\Debug\ForritB.exe
+C:\Users\SuprDewd\Documents\Contests\Forritunarkeppnin\2005\Alfa\Fyrri Hluti\Verkefni28\ForritB\obj\Debug\ForritB.pdb

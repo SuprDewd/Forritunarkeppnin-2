@@ -1,0 +1,48 @@
+﻿Build started 11.1.2012 21:13:29.
+     1>Project "C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa2\Alfa2011\Alfa2011.vcxproj" on node 2 (Build target(s)).
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp problem_manager.cpp
+         problem_manager.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(869): error C2259: 'problem' : cannot instantiate abstract class
+                 due to following members:
+                 'void problem::run(void)' : is abstract
+                 c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(10) : see declaration of 'problem::run'
+                 c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(16) : see reference to class template instantiation 'std::vector<_Ty>' being compiled
+                 with
+                 [
+                     _Ty=problem
+                 ]
+     1>c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(20): error C2664: 'void std::vector<_Ty>::push_back(_Ty &&)' : cannot convert parameter 1 from 'problem *' to 'problem &&'
+                 with
+                 [
+                     _Ty=problem
+                 ]
+                 Reason: cannot convert from 'problem *' to 'problem'
+                 No constructor could take the source type, or constructor overload resolution was ambiguous
+     1>c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(27): error C2065: 'cout' : undeclared identifier
+     1>c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(28): error C2059: syntax error : '}'
+         main.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(869): error C2259: 'problem' : cannot instantiate abstract class
+                 due to following members:
+                 'void problem::run(void)' : is abstract
+                 c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(10) : see declaration of 'problem::run'
+                 c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(16) : see reference to class template instantiation 'std::vector<_Ty>' being compiled
+                 with
+                 [
+                     _Ty=problem
+                 ]
+     1>c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(20): error C2664: 'void std::vector<_Ty>::push_back(_Ty &&)' : cannot convert parameter 1 from 'problem *' to 'problem &&'
+                 with
+                 [
+                     _Ty=problem
+                 ]
+                 Reason: cannot convert from 'problem *' to 'problem'
+                 No constructor could take the source type, or constructor overload resolution was ambiguous
+     1>c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\suprdewd\documents\library\contests\forritunarkeppnin\2011\alfa2\alfa2011\problem_manager.cpp(28): error C2059: syntax error : '}'
+         Generating Code...
+     1>Done Building Project "C:\Users\SuprDewd\Documents\Library\Contests\Forritunarkeppnin\2011\Alfa2\Alfa2011\Alfa2011.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.96
